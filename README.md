@@ -1,4 +1,4 @@
-# SSDD Assignment 1 – Git & GitHub Collaboration  
+# SSDD Assignment 1 – Git & GitHub 
 
 ## 🔹 Step 1 – Repository Setup  
 
